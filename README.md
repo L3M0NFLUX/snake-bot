@@ -1,2 +1,2 @@
-# snake-bot
+# Google Snake Bot
 Bot for Google Snake
